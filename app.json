@@ -40,7 +40,7 @@
   "window": {
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#07c160",
-    "navigationBarTitleText": "垃圾分类黑板报",
+    "navigationBarTitleText": "垃圾分类",
     "navigationBarTextStyle": "white"
   },
   "tabBar": {
