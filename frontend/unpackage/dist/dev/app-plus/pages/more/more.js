@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"center-box{ width: ",[0,500],"; height: ",[0,500],"; }\n.",[1],"center-box .",[1],"image { width: 100%; height: 100%; }\n",],undefined,{path:"./pages/more/more.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/more/more.wxml') } }));
