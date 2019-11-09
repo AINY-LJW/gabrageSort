@@ -1,7 +1,0 @@
-{
-  "desc": "HJS垃圾分类小程序",
-  "rules": [{
-  "action": "allow",
-  "page": "*"
-  }]
-}
